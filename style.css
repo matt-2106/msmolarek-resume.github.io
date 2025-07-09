@@ -1,0 +1,154 @@
+body {
+    background: hsl(229, 100%, 85%);
+
+    font-family: "Montserrat", sans-serif;
+}
+main {
+    width: 100%;
+}
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    justify-content: center;
+    margin: 0 auto;
+    background: white;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+aside {
+    width: 370px;
+    background: #090979;
+    background: linear-gradient(143deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    height: 100%;
+}
+.cv-photo {
+    margin-top: 25px;
+}
+.header-secondary {
+    color: #ffffff;
+}
+.contact-links {
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.bold {
+    font-weight: 700;
+}
+.list-secondary {
+    color: #fb6d3a;
+    margin-left: 0;
+    padding: 0;
+    list-style-position: inside;
+}
+.list-secondary-item {
+    color: white;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.contact-block {
+    margin-top: 51px;
+    margin-left: 40px;
+}
+.tech-skills-block {
+    margin-top: 47px;
+    margin-left: 40px;
+    font-family: "Montserrat", sans-serif;
+}
+.soft-skills-block {
+    margin-top: 44px;
+    margin-left: 40px;
+    font-family: "Montserrat", sans-serif;
+}
+main {
+    padding: 102px 88px 102px 88px;
+}
+.main-description {
+    width: 500px;
+    margin-bottom: 40px;
+}
+.job-title {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+h1 {
+    font-family: Montserrat;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 55px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.description {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+}
+.projects {
+    width: 485px;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 51px;
+}
+.list-primary {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 0px;
+    list-style-position: inside;
+}
+.list-primary-item {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    text-decoration: none;
+}
+.header-primary {
+    font-weight: 700px;
+    font-size: 22px;
+    line-height: 26.82px;
+    margin-bottom: 12px;
+}
+.job-name {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+.highlight {
+    color: #fb6d3a;
+}
+.job-date {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+}
+.job-list {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-bottom: 16px;
+    padding-left: 20px;
+}
+.header-education {
+    font-weight: 700px;
+    font-size: 22px;
+    line-height: 26.82px;
+    margin-bottom: 12px;
+    margin-top: 43px;
+}
